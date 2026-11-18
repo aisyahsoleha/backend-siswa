@@ -1,7 +1,7 @@
 {
   "name": "data-siswa-backend",
   "version": "1.0.0",
-  "description": "REST API CRUD Data Siswa dengan Express dan MySQL",
+  "description": "REST API CRUD Data Siswa menggunakan Express.js dan MySQL.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
